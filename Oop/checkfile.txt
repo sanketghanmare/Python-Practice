@@ -1,0 +1,684 @@
+1000 Maniacs Our Time in Eden <__main__.Song object at 0x112b0e250>
+1000 Maniacs Our Time in Eden <__main__.Song object at 0x112b1fed0>
+1000 Maniacs Our Time in Eden <__main__.Song object at 0x112b14090>
+1000 Maniacs Our Time in Eden <__main__.Song object at 0x112b24510>
+1000 Maniacs Our Time in Eden <__main__.Song object at 0x112b24590>
+1000 Maniacs Our Time in Eden <__main__.Song object at 0x112b24810>
+1000 Maniacs Our Time in Eden <__main__.Song object at 0x112b24890>
+1000 Maniacs Our Time in Eden <__main__.Song object at 0x112b24790>
+1000 Maniacs Our Time in Eden <__main__.Song object at 0x112b24750>
+1000 Maniacs Our Time in Eden <__main__.Song object at 0x112c2cd90>
+1000 Maniacs Our Time in Eden <__main__.Song object at 0x112b245d0>
+1000 Maniacs Our Time in Eden <__main__.Song object at 0x112c2cf90>
+1000 Maniacs Our Time in Eden <__main__.Song object at 0x112c2cf50>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4b190>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4b250>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4b310>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4b3d0>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4b450>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4b510>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4b5d0>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4b650>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4b6d0>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4b710>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4b7d0>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4b890>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4b950>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4b9d0>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4ba90>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4bb50>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4bbd0>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4bc90>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4bd10>
+10cc The Best Of The Early Years <__main__.Song object at 0x112c4bdd0>
+AC DC If You Want Blood, You've Got It <__main__.Song object at 0x112c4bf10>
+AC DC If You Want Blood, You've Got It <__main__.Song object at 0x112c4bfd0>
+AC DC If You Want Blood, You've Got It <__main__.Song object at 0x112c4bf90>
+AC DC If You Want Blood, You've Got It <__main__.Song object at 0x112c46190>
+AC DC If You Want Blood, You've Got It <__main__.Song object at 0x112c46250>
+AC DC If You Want Blood, You've Got It <__main__.Song object at 0x112c46350>
+AC DC If You Want Blood, You've Got It <__main__.Song object at 0x112c463d0>
+AC DC If You Want Blood, You've Got It <__main__.Song object at 0x112c46450>
+AC DC If You Want Blood, You've Got It <__main__.Song object at 0x112c46510>
+AC DC If You Want Blood, You've Got It <__main__.Song object at 0x112c46550>
+AC DC For Those About To Rock (We Salute You) <__main__.Song object at 0x112c462d0>
+AC DC For Those About To Rock (We Salute You) <__main__.Song object at 0x112c466d0>
+AC DC For Those About To Rock (We Salute You) <__main__.Song object at 0x112c46750>
+AC DC For Those About To Rock (We Salute You) <__main__.Song object at 0x112c46810>
+AC DC For Those About To Rock (We Salute You) <__main__.Song object at 0x112c46890>
+AC DC For Those About To Rock (We Salute You) <__main__.Song object at 0x112c46990>
+AC DC For Those About To Rock (We Salute You) <__main__.Song object at 0x112c46a50>
+AC DC For Those About To Rock (We Salute You) <__main__.Song object at 0x112c46b10>
+AC DC For Those About To Rock (We Salute You) <__main__.Song object at 0x112c46b90>
+AC DC For Those About To Rock (We Salute You) <__main__.Song object at 0x112c46bd0>
+Aerosmith Aerosmith <__main__.Song object at 0x112c46d50>
+Aerosmith Aerosmith <__main__.Song object at 0x112c46e50>
+Aerosmith Aerosmith <__main__.Song object at 0x112c46f90>
+Aerosmith Aerosmith <__main__.Song object at 0x112c46f50>
+Aerosmith Aerosmith <__main__.Song object at 0x112c46dd0>
+Aerosmith Aerosmith <__main__.Song object at 0x112c4d250>
+Aerosmith Aerosmith <__main__.Song object at 0x112c4d310>
+Aerosmith Aerosmith <__main__.Song object at 0x112c4d3d0>
+Aerosmith Get Your Wings <__main__.Song object at 0x112c4d390>
+Aerosmith Get Your Wings <__main__.Song object at 0x112c4d550>
+Aerosmith Get Your Wings <__main__.Song object at 0x112c4d610>
+Aerosmith Get Your Wings <__main__.Song object at 0x112c4d6d0>
+Aerosmith Get Your Wings <__main__.Song object at 0x112c4d750>
+Aerosmith Get Your Wings <__main__.Song object at 0x112c4d810>
+Aerosmith Get Your Wings <__main__.Song object at 0x112c4d890>
+Aerosmith Get Your Wings <__main__.Song object at 0x112c4d910>
+Aerosmith Toys In The Attic <__main__.Song object at 0x112c4d8d0>
+Aerosmith Toys In The Attic <__main__.Song object at 0x112c4da10>
+Aerosmith Toys In The Attic <__main__.Song object at 0x112c4dad0>
+Aerosmith Toys In The Attic <__main__.Song object at 0x112c4db90>
+Aerosmith Toys In The Attic <__main__.Song object at 0x112c4dc50>
+Aerosmith Toys In The Attic <__main__.Song object at 0x112c4dd10>
+Aerosmith Toys In The Attic <__main__.Song object at 0x112c4ddd0>
+Aerosmith Toys In The Attic <__main__.Song object at 0x112c4de90>
+Aerosmith Toys In The Attic <__main__.Song object at 0x112c4df50>
+Aerosmith Live! Bootleg <__main__.Song object at 0x112c4df10>
+Aerosmith Live! Bootleg <__main__.Song object at 0x112c4dc90>
+Aerosmith Live! Bootleg <__main__.Song object at 0x112c43210>
+Aerosmith Live! Bootleg <__main__.Song object at 0x112c43290>
+Aerosmith Live! Bootleg <__main__.Song object at 0x112c43310>
+Aerosmith Live! Bootleg <__main__.Song object at 0x112c43410>
+Aerosmith Live! Bootleg <__main__.Song object at 0x112c434d0>
+Aerosmith Live! Bootleg <__main__.Song object at 0x112c43590>
+Aerosmith Live! Bootleg <__main__.Song object at 0x112c43650>
+Aerosmith Live! Bootleg <__main__.Song object at 0x112c436d0>
+Aerosmith Live! Bootleg <__main__.Song object at 0x112c43750>
+Aerosmith Live! Bootleg <__main__.Song object at 0x112c437d0>
+Aerosmith Live! Bootleg <__main__.Song object at 0x112c43890>
+Aerosmith Live! Bootleg <__main__.Song object at 0x112c43950>
+Aerosmith Live! Bootleg <__main__.Song object at 0x112c43a10>
+Aerosmith Live! Bootleg <__main__.Song object at 0x112c43a90>
+Aerosmith Night In The Ruts <__main__.Song object at 0x112c43090>
+Aerosmith Night In The Ruts <__main__.Song object at 0x112c43bd0>
+Aerosmith Night In The Ruts <__main__.Song object at 0x112c43c90>
+Aerosmith Night In The Ruts <__main__.Song object at 0x112c43d10>
+Aerosmith Night In The Ruts <__main__.Song object at 0x112c43dd0>
+Aerosmith Night In The Ruts <__main__.Song object at 0x112c43e90>
+Aerosmith Night In The Ruts <__main__.Song object at 0x112c43f10>
+Aerosmith Night In The Ruts <__main__.Song object at 0x112c43f90>
+Aerosmith Night In The Ruts <__main__.Song object at 0x112c43f50>
+Aerosmith Done With Mirrors <__main__.Song object at 0x112c51050>
+Aerosmith Done With Mirrors <__main__.Song object at 0x112c43e10>
+Aerosmith Done With Mirrors <__main__.Song object at 0x112c51250>
+Aerosmith Done With Mirrors <__main__.Song object at 0x112c51310>
+Aerosmith Done With Mirrors <__main__.Song object at 0x112c51390>
+Aerosmith Done With Mirrors <__main__.Song object at 0x112c51490>
+Aerosmith Done With Mirrors <__main__.Song object at 0x112c51550>
+Aerosmith Done With Mirrors <__main__.Song object at 0x112c51610>
+Aerosmith Done With Mirrors <__main__.Song object at 0x112c516d0>
+Aerosmith Permanent Vacation <__main__.Song object at 0x112c51690>
+Aerosmith Permanent Vacation <__main__.Song object at 0x112c51810>
+Aerosmith Permanent Vacation <__main__.Song object at 0x112c518d0>
+Aerosmith Permanent Vacation <__main__.Song object at 0x112c51990>
+Aerosmith Permanent Vacation <__main__.Song object at 0x112c51a50>
+Aerosmith Permanent Vacation <__main__.Song object at 0x112c51b10>
+Aerosmith Permanent Vacation <__main__.Song object at 0x112c51bd0>
+Aerosmith Permanent Vacation <__main__.Song object at 0x112c51c90>
+Aerosmith Permanent Vacation <__main__.Song object at 0x112c51d10>
+Aerosmith Permanent Vacation <__main__.Song object at 0x112c51d90>
+Aerosmith Permanent Vacation <__main__.Song object at 0x112c51e10>
+Aerosmith Permanent Vacation <__main__.Song object at 0x112c51ed0>
+Aerosmith Gems <__main__.Song object at 0x112c51e90>
+Aerosmith Gems <__main__.Song object at 0x112c51f50>
+Aerosmith Gems <__main__.Song object at 0x112c531d0>
+Aerosmith Gems <__main__.Song object at 0x112c53250>
+Aerosmith Gems <__main__.Song object at 0x112c53310>
+Aerosmith Gems <__main__.Song object at 0x112c53410>
+Aerosmith Gems <__main__.Song object at 0x112c534d0>
+Aerosmith Gems <__main__.Song object at 0x112c53590>
+Aerosmith Gems <__main__.Song object at 0x112c53650>
+Aerosmith Gems <__main__.Song object at 0x112c536d0>
+Aerosmith Gems <__main__.Song object at 0x112c53750>
+Aerosmith Gems <__main__.Song object at 0x112c53810>
+Aerosmith Pump <__main__.Song object at 0x112c43a50>
+Aerosmith Pump <__main__.Song object at 0x112c53950>
+Aerosmith Pump <__main__.Song object at 0x112c53a50>
+Aerosmith Pump <__main__.Song object at 0x112c53ad0>
+Aerosmith Pump <__main__.Song object at 0x112c53b50>
+Aerosmith Pump <__main__.Song object at 0x112c53c10>
+Aerosmith Pump <__main__.Song object at 0x112c53c90>
+Aerosmith Pump <__main__.Song object at 0x112c53d50>
+Aerosmith Pump <__main__.Song object at 0x112c53dd0>
+Aerosmith Pump <__main__.Song object at 0x112c53e10>
+Aerosmith Get A Grip <__main__.Song object at 0x112c53b90>
+Aerosmith Get A Grip <__main__.Song object at 0x112c53fd0>
+Aerosmith Get A Grip <__main__.Song object at 0x112c53f90>
+Aerosmith Get A Grip <__main__.Song object at 0x112c551d0>
+Aerosmith Get A Grip <__main__.Song object at 0x112c55290>
+Aerosmith Get A Grip <__main__.Song object at 0x112c55350>
+Aerosmith Get A Grip <__main__.Song object at 0x112c55410>
+Aerosmith Get A Grip <__main__.Song object at 0x112c554d0>
+Aerosmith Get A Grip <__main__.Song object at 0x112c55550>
+Aerosmith Get A Grip <__main__.Song object at 0x112c555d0>
+Aerosmith Get A Grip <__main__.Song object at 0x112c55690>
+Aerosmith Get A Grip <__main__.Song object at 0x112c55750>
+Aerosmith Get A Grip <__main__.Song object at 0x112c55810>
+Aerosmith Get A Grip <__main__.Song object at 0x112c55890>
+Aerosmith Get A Grip <__main__.Song object at 0x112c55950>
+Aerosmith Big Ones <__main__.Song object at 0x112c55910>
+Aerosmith Big Ones <__main__.Song object at 0x112c55b10>
+Aerosmith Big Ones <__main__.Song object at 0x112c55bd0>
+Aerosmith Big Ones <__main__.Song object at 0x112c55c90>
+Aerosmith Big Ones <__main__.Song object at 0x112c55d50>
+Aerosmith Big Ones <__main__.Song object at 0x112c55e10>
+Aerosmith Big Ones <__main__.Song object at 0x112c55e90>
+Aerosmith Big Ones <__main__.Song object at 0x112c55f50>
+Aerosmith Big Ones <__main__.Song object at 0x112c55f10>
+Aerosmith Big Ones <__main__.Song object at 0x112c55fd0>
+Aerosmith Big Ones <__main__.Song object at 0x112c55a90>
+Aerosmith Big Ones <__main__.Song object at 0x112c58250>
+Aerosmith Big Ones <__main__.Song object at 0x112c58310>
+Aerosmith Big Ones <__main__.Song object at 0x112c583d0>
+Aerosmith Big Ones <__main__.Song object at 0x112c58490>
+Aerosmith Big Ones <__main__.Song object at 0x112c58510>
+Aerosmith Nine Lives <__main__.Song object at 0x112c584d0>
+Aerosmith Nine Lives <__main__.Song object at 0x112c58690>
+Aerosmith Nine Lives <__main__.Song object at 0x112c58750>
+Aerosmith Nine Lives <__main__.Song object at 0x112c58810>
+Aerosmith Nine Lives <__main__.Song object at 0x112c588d0>
+Aerosmith Nine Lives <__main__.Song object at 0x112c589d0>
+Aerosmith Nine Lives <__main__.Song object at 0x112c58a50>
+Aerosmith Nine Lives <__main__.Song object at 0x112c58ad0>
+Aerosmith Nine Lives <__main__.Song object at 0x112c58b90>
+Aerosmith Nine Lives <__main__.Song object at 0x112c58c10>
+Aerosmith Nine Lives <__main__.Song object at 0x112c58c90>
+Aerosmith Nine Lives <__main__.Song object at 0x112c58d50>
+Aerosmith Nine Lives <__main__.Song object at 0x112c58e10>
+Aerosmith Nine Lives <__main__.Song object at 0x112c58e90>
+Aerosmith Just Push Play <__main__.Song object at 0x112c58e50>
+Aerosmith Just Push Play <__main__.Song object at 0x112c586d0>
+Aerosmith Just Push Play <__main__.Song object at 0x112c58fd0>
+Aerosmith Just Push Play <__main__.Song object at 0x112c5b210>
+Aerosmith Just Push Play <__main__.Song object at 0x112c5b290>
+Aerosmith Just Push Play <__main__.Song object at 0x112c5b390>
+Aerosmith Just Push Play <__main__.Song object at 0x112c5b450>
+Aerosmith Just Push Play <__main__.Song object at 0x112c5b510>
+Aerosmith Just Push Play <__main__.Song object at 0x112c5b5d0>
+Aerosmith Just Push Play <__main__.Song object at 0x112c5b650>
+Aerosmith Just Push Play <__main__.Song object at 0x112c5b6d0>
+Aerosmith Just Push Play <__main__.Song object at 0x112c5b790>
+Aerosmith Just Push Play <__main__.Song object at 0x112c5b850>
+Alice Cooper Welcome To My Nightmare <__main__.Song object at 0x112c5b910>
+Alice Cooper Welcome To My Nightmare <__main__.Song object at 0x112c5b9d0>
+Alice Cooper Welcome To My Nightmare <__main__.Song object at 0x112c5bad0>
+Alice Cooper Welcome To My Nightmare <__main__.Song object at 0x112c5bb90>
+Alice Cooper Welcome To My Nightmare <__main__.Song object at 0x112c5bc50>
+Alice Cooper Welcome To My Nightmare <__main__.Song object at 0x112c5bd10>
+Alice Cooper Welcome To My Nightmare <__main__.Song object at 0x112c5bd90>
+Alice Cooper Welcome To My Nightmare <__main__.Song object at 0x112c5be50>
+Alice Cooper Welcome To My Nightmare <__main__.Song object at 0x112c5bf10>
+Alice Cooper Welcome To My Nightmare <__main__.Song object at 0x112c5bf90>
+Alice Cooper Welcome To My Nightmare <__main__.Song object at 0x112c5bc90>
+Alice Cooper Welcome To My Nightmare <__main__.Song object at 0x112c5d150>
+Alice Cooper Welcome To My Nightmare <__main__.Song object at 0x112c5d1d0>
+Alice Cooper Welcome To My Nightmare <__main__.Song object at 0x112c5d250>
+Alice Cooper Hell Is <__main__.Song object at 0x112c5d210>
+Alice Cooper Hell Is <__main__.Song object at 0x112c5d450>
+Alice Cooper Hell Is <__main__.Song object at 0x112c5d550>
+Alice Cooper Hell Is <__main__.Song object at 0x112c5d5d0>
+Alice Cooper Hell Is <__main__.Song object at 0x112c5d690>
+Alice Cooper Hell Is <__main__.Song object at 0x112c5d750>
+Alice Cooper Hell Is <__main__.Song object at 0x112c5d810>
+Alice Cooper Hell Is <__main__.Song object at 0x112c5d890>
+Alice Cooper Hell Is <__main__.Song object at 0x112c5d910>
+Alice Cooper Hell Is <__main__.Song object at 0x112c5d990>
+Alice Cooper Hell Is <__main__.Song object at 0x112c5da50>
+Alice Cooper Hell Is <__main__.Song object at 0x112c5db10>
+Alice Cooper Hell Is <__main__.Song object at 0x112c5dbd0>
+Alice Cooper Hell Is <__main__.Song object at 0x112c5dc50>
+Alice Cooper Hell Is <__main__.Song object at 0x112c5dd10>
+Alice Cooper Hell Is <__main__.Song object at 0x112c5dd90>
+Animals The Most Of The Animals <__main__.Song object at 0x112c5d3d0>
+Animals The Most Of The Animals <__main__.Song object at 0x112c5de90>
+Animals The Most Of The Animals <__main__.Song object at 0x112c5df50>
+Animals The Most Of The Animals <__main__.Song object at 0x112c5df10>
+Animals The Most Of The Animals <__main__.Song object at 0x112c5dfd0>
+Animals The Most Of The Animals <__main__.Song object at 0x112c62190>
+Animals The Most Of The Animals <__main__.Song object at 0x112c62210>
+Animals The Most Of The Animals <__main__.Song object at 0x112c62290>
+Animals The Most Of The Animals <__main__.Song object at 0x112c62310>
+Animals The Most Of The Animals <__main__.Song object at 0x112c62350>
+Animals The Most Of The Animals <__main__.Song object at 0x112c623d0>
+Animals The Most Of The Animals <__main__.Song object at 0x112c62450>
+Animals The Most Of The Animals <__main__.Song object at 0x112c624d0>
+Animals The Most Of The Animals <__main__.Song object at 0x112c62550>
+Animals The Most Of The Animals <__main__.Song object at 0x112c62610>
+Animals The Most Of The Animals <__main__.Song object at 0x112c626d0>
+George Thorogood & The Destroyers One Bourbon, One Scotch, One Beer <__main__.Song object at 0x112c62790>
+George Thorogood & The Destroyers One Bourbon, One Scotch, One Beer <__main__.Song object at 0x112c62810>
+George Thorogood & The Destroyers One Bourbon, One Scotch, One Beer <__main__.Song object at 0x112c628d0>
+George Thorogood & The Destroyers One Bourbon, One Scotch, One Beer <__main__.Song object at 0x112c62950>
+George Thorogood & The Destroyers One Bourbon, One Scotch, One Beer <__main__.Song object at 0x112c629d0>
+George Thorogood & The Destroyers One Bourbon, One Scotch, One Beer <__main__.Song object at 0x112c62a90>
+George Thorogood & The Destroyers One Bourbon, One Scotch, One Beer <__main__.Song object at 0x112c62b50>
+George Thorogood & The Destroyers One Bourbon, One Scotch, One Beer <__main__.Song object at 0x112c62c10>
+George Thorogood & The Destroyers One Bourbon, One Scotch, One Beer <__main__.Song object at 0x112c62cd0>
+George Thorogood & The Destroyers One Bourbon, One Scotch, One Beer <__main__.Song object at 0x112c62a50>
+George Thorogood & The Destroyers Ride 'Til I Die <__main__.Song object at 0x112c62e90>
+George Thorogood & The Destroyers Ride 'Til I Die <__main__.Song object at 0x112c62f50>
+George Thorogood & The Destroyers Ride 'Til I Die <__main__.Song object at 0x112c62f10>
+George Thorogood & The Destroyers Ride 'Til I Die <__main__.Song object at 0x112c65110>
+George Thorogood & The Destroyers Ride 'Til I Die <__main__.Song object at 0x112c65190>
+George Thorogood & The Destroyers Ride 'Til I Die <__main__.Song object at 0x112c65250>
+George Thorogood & The Destroyers Ride 'Til I Die <__main__.Song object at 0x112c65310>
+George Thorogood & The Destroyers Ride 'Til I Die <__main__.Song object at 0x112c653d0>
+George Thorogood & The Destroyers Ride 'Til I Die <__main__.Song object at 0x112c65450>
+George Thorogood & The Destroyers Ride 'Til I Die <__main__.Song object at 0x112c654d0>
+George Thorogood & The Destroyers Ride 'Til I Die <__main__.Song object at 0x112c65550>
+George Thorogood & The Destroyers Ride 'Til I Die <__main__.Song object at 0x112c655d0>
+George Thorogood & The Destroyers Ride 'Til I Die <__main__.Song object at 0x112c65690>
+George Thorogood & The Destroyers The Baddest Of George Thorogood & The Destroyers <__main__.Song object at 0x112c65650>
+George Thorogood & The Destroyers The Baddest Of George Thorogood & The Destroyers <__main__.Song object at 0x112c657d0>
+George Thorogood & The Destroyers The Baddest Of George Thorogood & The Destroyers <__main__.Song object at 0x112c65890>
+George Thorogood & The Destroyers The Baddest Of George Thorogood & The Destroyers <__main__.Song object at 0x112c65910>
+George Thorogood & The Destroyers The Baddest Of George Thorogood & The Destroyers <__main__.Song object at 0x112c65990>
+George Thorogood & The Destroyers The Baddest Of George Thorogood & The Destroyers <__main__.Song object at 0x112c65a50>
+George Thorogood & The Destroyers The Baddest Of George Thorogood & The Destroyers <__main__.Song object at 0x112c65b10>
+George Thorogood & The Destroyers The Baddest Of George Thorogood & The Destroyers <__main__.Song object at 0x112c65bd0>
+George Thorogood & The Destroyers The Baddest Of George Thorogood & The Destroyers <__main__.Song object at 0x112c65c50>
+George Thorogood & The Destroyers The Baddest Of George Thorogood & The Destroyers <__main__.Song object at 0x112c65a10>
+George Thorogood & The Destroyers The Baddest Of George Thorogood & The Destroyers <__main__.Song object at 0x112c65d50>
+George Thorogood & The Destroyers The Baddest Of George Thorogood & The Destroyers <__main__.Song object at 0x112c65e10>
+Hayseed Dixie Weapons Of Grass Destruction <__main__.Song object at 0x112c65f90>
+Hayseed Dixie Weapons Of Grass Destruction <__main__.Song object at 0x112c6a090>
+Hayseed Dixie Weapons Of Grass Destruction <__main__.Song object at 0x112c6a190>
+Hayseed Dixie Weapons Of Grass Destruction <__main__.Song object at 0x112c6a210>
+Hayseed Dixie Weapons Of Grass Destruction <__main__.Song object at 0x112c6a290>
+Hayseed Dixie Weapons Of Grass Destruction <__main__.Song object at 0x112c6a350>
+Hayseed Dixie Weapons Of Grass Destruction <__main__.Song object at 0x112c6a3d0>
+Hayseed Dixie Weapons Of Grass Destruction <__main__.Song object at 0x112c6a450>
+Hayseed Dixie Weapons Of Grass Destruction <__main__.Song object at 0x112c6a4d0>
+Hayseed Dixie Weapons Of Grass Destruction <__main__.Song object at 0x112c6a550>
+Hayseed Dixie Weapons Of Grass Destruction <__main__.Song object at 0x112c6a610>
+Hayseed Dixie Weapons Of Grass Destruction <__main__.Song object at 0x112c6a6d0>
+Hayseed Dixie Weapons Of Grass Destruction <__main__.Song object at 0x112c6a750>
+Hayseed Dixie Weapons Of Grass Destruction <__main__.Song object at 0x112c6a810>
+Hayseed Dixie Weapons Of Grass Destruction <__main__.Song object at 0x112c6a8d0>
+Heart Dreamboat Annie <__main__.Song object at 0x112c6a890>
+Heart Dreamboat Annie <__main__.Song object at 0x112c6ab10>
+Heart Dreamboat Annie <__main__.Song object at 0x112c6ac10>
+Heart Dreamboat Annie <__main__.Song object at 0x112c6acd0>
+Heart Dreamboat Annie <__main__.Song object at 0x112c6ad90>
+Heart Dreamboat Annie <__main__.Song object at 0x112c6ae90>
+Heart Dreamboat Annie <__main__.Song object at 0x112c6af10>
+Heart Dreamboat Annie <__main__.Song object at 0x112c6af90>
+Heart Dreamboat Annie <__main__.Song object at 0x112c6af50>
+Heart Dreamboat Annie <__main__.Song object at 0x112c6ab90>
+Heart Little Queen <__main__.Song object at 0x112c6d150>
+Heart Little Queen <__main__.Song object at 0x112c6d250>
+Heart Little Queen <__main__.Song object at 0x112c6d350>
+Heart Little Queen <__main__.Song object at 0x112c6d410>
+Heart Little Queen <__main__.Song object at 0x112c6d490>
+Heart Little Queen <__main__.Song object at 0x112c6d590>
+Heart Little Queen <__main__.Song object at 0x112c6d650>
+Heart Little Queen <__main__.Song object at 0x112c6d710>
+Heart Little Queen <__main__.Song object at 0x112c6d7d0>
+Heart Little Queen <__main__.Song object at 0x112c6d850>
+Heart Little Queen <__main__.Song object at 0x112c6d910>
+Heart Little Queen <__main__.Song object at 0x112c6d9d0>
+Heart Dog & Butterfly <__main__.Song object at 0x112c6d990>
+Heart Dog & Butterfly <__main__.Song object at 0x112c6db50>
+Heart Dog & Butterfly <__main__.Song object at 0x112c6dc50>
+Heart Dog & Butterfly <__main__.Song object at 0x112c6dd10>
+Heart Dog & Butterfly <__main__.Song object at 0x112c6ddd0>
+Heart Dog & Butterfly <__main__.Song object at 0x112c6ded0>
+Heart Dog & Butterfly <__main__.Song object at 0x112c6df90>
+Heart Dog & Butterfly <__main__.Song object at 0x112c6df50>
+Heart Dog & Butterfly <__main__.Song object at 0x112c6de50>
+Heart Dog & Butterfly <__main__.Song object at 0x112c6f1d0>
+Heart Dog & Butterfly <__main__.Song object at 0x112c6dad0>
+Heaven & Hell The Devil You Know <__main__.Song object at 0x112c6f090>
+Heaven & Hell The Devil You Know <__main__.Song object at 0x112c6f410>
+Heaven & Hell The Devil You Know <__main__.Song object at 0x112c6f510>
+Heaven & Hell The Devil You Know <__main__.Song object at 0x112c6f5d0>
+Heaven & Hell The Devil You Know <__main__.Song object at 0x112c6f690>
+Heaven & Hell The Devil You Know <__main__.Song object at 0x112c6f750>
+Heaven & Hell The Devil You Know <__main__.Song object at 0x112c6f7d0>
+Heaven & Hell The Devil You Know <__main__.Song object at 0x112c6f850>
+Heaven & Hell The Devil You Know <__main__.Song object at 0x112c6f8d0>
+Heaven & Hell The Devil You Know <__main__.Song object at 0x112c6f950>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c6fa50>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c6fb10>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c6fbd0>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c6fc90>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c6fd50>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c6fe10>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c6fe90>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c6ff10>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c6ff90>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c6ff50>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c6fd90>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c72190>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c72210>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c72290>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c72350>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c72410>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c724d0>
+John Lee Hooker Boogie Man - The Blues Collection 1 <__main__.Song object at 0x112c72590>
+Treatment Running With The Dogs <__main__.Song object at 0x112c72650>
+Treatment Running With The Dogs <__main__.Song object at 0x112c72710>
+Treatment Running With The Dogs <__main__.Song object at 0x112c727d0>
+Treatment Running With The Dogs <__main__.Song object at 0x112c72850>
+Treatment Running With The Dogs <__main__.Song object at 0x112c728d0>
+Treatment Running With The Dogs <__main__.Song object at 0x112c72990>
+Treatment Running With The Dogs <__main__.Song object at 0x112c72a50>
+Treatment Running With The Dogs <__main__.Song object at 0x112c72b10>
+Treatment Running With The Dogs <__main__.Song object at 0x112c72b90>
+Treatment Running With The Dogs <__main__.Song object at 0x112c72c10>
+Treatment Running With The Dogs <__main__.Song object at 0x112c72cd0>
+Treatment Running With The Dogs <__main__.Song object at 0x112c72d50>
+Treatment Running With The Dogs <__main__.Song object at 0x112c72dd0>
+Treatment Running With The Dogs <__main__.Song object at 0x112c72e50>
+Treatment Running With The Dogs <__main__.Song object at 0x112c72f10>
+Treatment Running With The Dogs <__main__.Song object at 0x112c72f90>
+Treatment Running With The Dogs <__main__.Song object at 0x112c72f50>
+Treatment Running With The Dogs <__main__.Song object at 0x112c76150>
+Treatment Running With The Dogs <__main__.Song object at 0x112c761d0>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c762d0>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76390>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76490>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76510>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76590>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76650>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76710>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c767d0>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76890>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76910>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c769d0>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76a50>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76b10>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76bd0>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76c90>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76d10>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76d90>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76e50>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76ed0>
+T.Rex The Very Best Of Marc Bolan And T. Rex <__main__.Song object at 0x112c76f90>
+Troggs Athens Andover <__main__.Song object at 0x112c78150>
+Troggs Athens Andover <__main__.Song object at 0x112c78250>
+Troggs Athens Andover <__main__.Song object at 0x112c78390>
+Troggs Athens Andover <__main__.Song object at 0x112c78450>
+Troggs Athens Andover <__main__.Song object at 0x112c78510>
+Troggs Athens Andover <__main__.Song object at 0x112c78610>
+Troggs Athens Andover <__main__.Song object at 0x112c786d0>
+Troggs Athens Andover <__main__.Song object at 0x112c78790>
+Troggs Athens Andover <__main__.Song object at 0x112c78850>
+Troggs Athens Andover <__main__.Song object at 0x112c78890>
+Troggs Athens Andover <__main__.Song object at 0x112c78950>
+Troggs Wild Thing - The Greatest Hits <__main__.Song object at 0x112c78910>
+Troggs Wild Thing - The Greatest Hits <__main__.Song object at 0x112c78a90>
+Troggs Wild Thing - The Greatest Hits <__main__.Song object at 0x112c78b10>
+Troggs Wild Thing - The Greatest Hits <__main__.Song object at 0x112c78b90>
+Troggs Wild Thing - The Greatest Hits <__main__.Song object at 0x112c78c50>
+Troggs Wild Thing - The Greatest Hits <__main__.Song object at 0x112c78d10>
+Troggs Wild Thing - The Greatest Hits <__main__.Song object at 0x112c78d90>
+Troggs Wild Thing - The Greatest Hits <__main__.Song object at 0x112c78e50>
+Troggs Wild Thing - The Greatest Hits <__main__.Song object at 0x112c78ed0>
+Troggs Wild Thing - The Greatest Hits <__main__.Song object at 0x112c78f50>
+Troggs Wild Thing - The Greatest Hits <__main__.Song object at 0x112c78fd0>
+Troggs Wild Thing - The Greatest Hits <__main__.Song object at 0x112c78f90>
+Troggs Wild Thing - The Greatest Hits <__main__.Song object at 0x112c7b190>
+Troggs Wild Thing - The Greatest Hits <__main__.Song object at 0x112c7b250>
+U2 18 Singles <__main__.Song object at 0x112c7b390>
+U2 18 Singles <__main__.Song object at 0x112c7b490>
+U2 18 Singles <__main__.Song object at 0x112c7b5d0>
+U2 18 Singles <__main__.Song object at 0x112c7b650>
+U2 18 Singles <__main__.Song object at 0x112c7b6d0>
+U2 18 Singles <__main__.Song object at 0x112c7b790>
+U2 18 Singles <__main__.Song object at 0x112c7b850>
+U2 18 Singles <__main__.Song object at 0x112c7b910>
+U2 18 Singles <__main__.Song object at 0x112c7b9d0>
+U2 18 Singles <__main__.Song object at 0x112c7ba10>
+U2 18 Singles <__main__.Song object at 0x112c7ba90>
+U2 18 Singles <__main__.Song object at 0x112c7bb50>
+U2 18 Singles <__main__.Song object at 0x112c7bbd0>
+U2 18 Singles <__main__.Song object at 0x112c7bc90>
+U2 18 Singles <__main__.Song object at 0x112c7bd50>
+U2 18 Singles <__main__.Song object at 0x112c7be10>
+U2 18 Singles <__main__.Song object at 0x112c7bed0>
+U2 18 Singles <__main__.Song object at 0x112c7bf50>
+U2 18 Singles <__main__.Song object at 0x112c7bfd0>
+UFO Phenomenon <__main__.Song object at 0x112c7d090>
+UFO Phenomenon <__main__.Song object at 0x112c7d1d0>
+UFO Phenomenon <__main__.Song object at 0x112c7d310>
+UFO Phenomenon <__main__.Song object at 0x112c7d3d0>
+UFO Phenomenon <__main__.Song object at 0x112c7d490>
+UFO Phenomenon <__main__.Song object at 0x112c7d590>
+UFO Phenomenon <__main__.Song object at 0x112c7d610>
+UFO Phenomenon <__main__.Song object at 0x112c7d690>
+UFO Phenomenon <__main__.Song object at 0x112c7d710>
+UFO Phenomenon <__main__.Song object at 0x112c7d790>
+Uriah Heep Demons And Wizards <__main__.Song object at 0x112c7d150>
+Uriah Heep Demons And Wizards <__main__.Song object at 0x112c7d8d0>
+Uriah Heep Demons And Wizards <__main__.Song object at 0x112c7d990>
+Uriah Heep Demons And Wizards <__main__.Song object at 0x112c7da50>
+Uriah Heep Demons And Wizards <__main__.Song object at 0x112c7db10>
+Uriah Heep Demons And Wizards <__main__.Song object at 0x112c7dc10>
+Uriah Heep Demons And Wizards <__main__.Song object at 0x112c7dcd0>
+Uriah Heep Demons And Wizards <__main__.Song object at 0x112c7dd90>
+Uriah Heep Demons And Wizards <__main__.Song object at 0x112c7de50>
+Uriah Heep The Magician's Birthday <__main__.Song object at 0x112c7de10>
+Uriah Heep The Magician's Birthday <__main__.Song object at 0x112c7dfd0>
+Uriah Heep The Magician's Birthday <__main__.Song object at 0x112c7df90>
+Uriah Heep The Magician's Birthday <__main__.Song object at 0x112c80190>
+Uriah Heep The Magician's Birthday <__main__.Song object at 0x112c80210>
+Uriah Heep The Magician's Birthday <__main__.Song object at 0x112c80310>
+Uriah Heep The Magician's Birthday <__main__.Song object at 0x112c803d0>
+Uriah Heep The Magician's Birthday <__main__.Song object at 0x112c80490>
+Uriah Heep Uriah Heep Live <__main__.Song object at 0x112c80450>
+Uriah Heep Uriah Heep Live <__main__.Song object at 0x112c80690>
+Uriah Heep Uriah Heep Live <__main__.Song object at 0x112c80790>
+Uriah Heep Uriah Heep Live <__main__.Song object at 0x112c80850>
+Uriah Heep Uriah Heep Live <__main__.Song object at 0x112c808d0>
+Uriah Heep Uriah Heep Live <__main__.Song object at 0x112c809d0>
+Uriah Heep Uriah Heep Live <__main__.Song object at 0x112c80a90>
+Uriah Heep Uriah Heep Live <__main__.Song object at 0x112c80b50>
+Vangelis Albedo 0.39 <__main__.Song object at 0x112c80950>
+Vangelis Albedo 0.39 <__main__.Song object at 0x112c80d10>
+Vangelis Albedo 0.39 <__main__.Song object at 0x112c80e50>
+Vangelis Albedo 0.39 <__main__.Song object at 0x112c80ed0>
+Vangelis Albedo 0.39 <__main__.Song object at 0x112c80f90>
+Vangelis Albedo 0.39 <__main__.Song object at 0x112c80f50>
+Vangelis Albedo 0.39 <__main__.Song object at 0x112c82190>
+Vangelis Albedo 0.39 <__main__.Song object at 0x112c82210>
+Vangelis Albedo 0.39 <__main__.Song object at 0x112c82290>
+Van Halen Van Halen <__main__.Song object at 0x112c820d0>
+Van Halen Van Halen <__main__.Song object at 0x112c82410>
+Van Halen Van Halen <__main__.Song object at 0x112c82550>
+Van Halen Van Halen <__main__.Song object at 0x112c825d0>
+Van Halen Van Halen <__main__.Song object at 0x112c82650>
+Van Halen Van Halen <__main__.Song object at 0x112c82750>
+Van Halen Van Halen <__main__.Song object at 0x112c82810>
+Van Halen Van Halen <__main__.Song object at 0x112c828d0>
+Van Halen Van Halen <__main__.Song object at 0x112c82950>
+Van Halen Van Halen <__main__.Song object at 0x112c829d0>
+Van Halen Van Halen <__main__.Song object at 0x112c82a90>
+Van Halen 1984 <__main__.Song object at 0x112c82a50>
+Van Halen 1984 <__main__.Song object at 0x112c82c50>
+Van Halen 1984 <__main__.Song object at 0x112c82d50>
+Van Halen 1984 <__main__.Song object at 0x112c82e10>
+Van Halen 1984 <__main__.Song object at 0x112c82ed0>
+Van Halen 1984 <__main__.Song object at 0x112c82fd0>
+Van Halen 1984 <__main__.Song object at 0x112c82f90>
+Van Halen 1984 <__main__.Song object at 0x112c82cd0>
+Van Halen 1984 <__main__.Song object at 0x112c85250>
+Velvet Revolver Libertad <__main__.Song object at 0x112c85090>
+Velvet Revolver Libertad <__main__.Song object at 0x112c85410>
+Velvet Revolver Libertad <__main__.Song object at 0x112c85550>
+Velvet Revolver Libertad <__main__.Song object at 0x112c855d0>
+Velvet Revolver Libertad <__main__.Song object at 0x112c85650>
+Velvet Revolver Libertad <__main__.Song object at 0x112c85750>
+Velvet Revolver Libertad <__main__.Song object at 0x112c857d0>
+Velvet Revolver Libertad <__main__.Song object at 0x112c85890>
+Velvet Revolver Libertad <__main__.Song object at 0x112c85950>
+Velvet Revolver Libertad <__main__.Song object at 0x112c859d0>
+Velvet Revolver Libertad <__main__.Song object at 0x112c85a50>
+Velvet Revolver Libertad <__main__.Song object at 0x112c85b10>
+Velvet Revolver Libertad <__main__.Song object at 0x112c85bd0>
+Velvet Underground The Velvet Underground & Nico <__main__.Song object at 0x112c854d0>
+Velvet Underground The Velvet Underground & Nico <__main__.Song object at 0x112c85cd0>
+Velvet Underground The Velvet Underground & Nico <__main__.Song object at 0x112c85d50>
+Velvet Underground The Velvet Underground & Nico <__main__.Song object at 0x112c85e10>
+Velvet Underground The Velvet Underground & Nico <__main__.Song object at 0x112c85ed0>
+Velvet Underground The Velvet Underground & Nico <__main__.Song object at 0x112c85fd0>
+Velvet Underground The Velvet Underground & Nico <__main__.Song object at 0x112c88090>
+Velvet Underground The Velvet Underground & Nico <__main__.Song object at 0x112c88150>
+Velvet Underground The Velvet Underground & Nico <__main__.Song object at 0x112c881d0>
+Velvet Underground The Velvet Underground & Nico <__main__.Song object at 0x112c85f90>
+Velvet Underground The Velvet Underground & Nico <__main__.Song object at 0x112c88290>
+Vladimir Vysotsky Izbrannoye <__main__.Song object at 0x112c88410>
+Warner E Hodges Gunslinger <__main__.Song object at 0x112c88590>
+Warner E Hodges Gunslinger <__main__.Song object at 0x112c88690>
+Warner E Hodges Gunslinger <__main__.Song object at 0x112c887d0>
+Warner E Hodges Gunslinger <__main__.Song object at 0x112c88850>
+Warner E Hodges Gunslinger <__main__.Song object at 0x112c88910>
+Warner E Hodges Gunslinger <__main__.Song object at 0x112c889d0>
+Warner E Hodges Gunslinger <__main__.Song object at 0x112c88a50>
+Warner E Hodges Gunslinger <__main__.Song object at 0x112c88b10>
+Warner E Hodges Gunslinger <__main__.Song object at 0x112c88bd0>
+Warner E Hodges Gunslinger <__main__.Song object at 0x112c88c50>
+White Zombie Astro-Creep <__main__.Song object at 0x112c88610>
+White Zombie Astro-Creep <__main__.Song object at 0x112c88e10>
+White Zombie Astro-Creep <__main__.Song object at 0x112c88f10>
+White Zombie Astro-Creep <__main__.Song object at 0x112c88f90>
+White Zombie Astro-Creep <__main__.Song object at 0x112c88f50>
+White Zombie Astro-Creep <__main__.Song object at 0x112c88fd0>
+White Zombie Astro-Creep <__main__.Song object at 0x112c8b190>
+White Zombie Astro-Creep <__main__.Song object at 0x112c8b250>
+White Zombie Astro-Creep <__main__.Song object at 0x112c8b2d0>
+White Zombie Astro-Creep <__main__.Song object at 0x112c8b310>
+White Zombie Astro-Creep <__main__.Song object at 0x112c8b390>
+Wishbone Ash Argus <__main__.Song object at 0x112c8b110>
+Wishbone Ash Argus <__main__.Song object at 0x112c8b550>
+Wishbone Ash Argus <__main__.Song object at 0x112c8b690>
+Wishbone Ash Argus <__main__.Song object at 0x112c8b750>
+Wishbone Ash Argus <__main__.Song object at 0x112c8b7d0>
+Wishbone Ash Argus <__main__.Song object at 0x112c8b8d0>
+Wishbone Ash Argus <__main__.Song object at 0x112c8b990>
+Wishbone Ash Argus <__main__.Song object at 0x112c8ba10>
+Wishbone Ash Argus <__main__.Song object at 0x112c8ba90>
+Wishbone Ash Argus <__main__.Song object at 0x112c8bad0>
+Wishbone Ash Keeper Of The Light [Live In Chicago] <__main__.Song object at 0x112c8b850>
+Wishbone Ash Keeper Of The Light [Live In Chicago] <__main__.Song object at 0x112c8bb90>
+Wishbone Ash Keeper Of The Light [Live In Chicago] <__main__.Song object at 0x112c8bc50>
+Wishbone Ash Keeper Of The Light [Live In Chicago] <__main__.Song object at 0x112c8bcd0>
+Wishbone Ash Keeper Of The Light [Live In Chicago] <__main__.Song object at 0x112c8bd50>
+Wishbone Ash Keeper Of The Light [Live In Chicago] <__main__.Song object at 0x112c8be10>
+Wishbone Ash Keeper Of The Light [Live In Chicago] <__main__.Song object at 0x112c8be90>
+Wishbone Ash Keeper Of The Light [Live In Chicago] <__main__.Song object at 0x112c8bf50>
+Wishbone Ash Keeper Of The Light [Live In Chicago] <__main__.Song object at 0x112c8bf10>
+Wishbone Ash Keeper Of The Light [Live In Chicago] <__main__.Song object at 0x112c8bfd0>
+Wishbone Ash Keeper Of The Light [Live In Chicago] <__main__.Song object at 0x112c8bd90>
+Wishbone Ash Wishbone Four <__main__.Song object at 0x112c8e150>
+Wishbone Ash Wishbone Four <__main__.Song object at 0x112c8e390>
+Wishbone Ash Wishbone Four <__main__.Song object at 0x112c8e450>
+Wishbone Ash Wishbone Four <__main__.Song object at 0x112c8e510>
+Wishbone Ash Wishbone Four <__main__.Song object at 0x112c8e590>
+Wishbone Ash Wishbone Four <__main__.Song object at 0x112c8e690>
+Wishbone Ash Wishbone Four <__main__.Song object at 0x112c8e750>
+Wishbone Ash Wishbone Four <__main__.Song object at 0x112c8e7d0>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c8e610>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c8e910>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c8e9d0>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c8ea50>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c8eb10>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c8ebd0>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c8ec90>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c8ed50>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c8edd0>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c8ee50>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c8ef10>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c8ef90>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c8ef50>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c8efd0>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c911d0>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c91250>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c912d0>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c91350>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c913d0>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c91450>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c914d0>
+Yardbirds The Very Best of the Yardbirds <__main__.Song object at 0x112c91550>
+Yngwie Malmsteen Rising Force <__main__.Song object at 0x112c91690>
+Yngwie Malmsteen Rising Force <__main__.Song object at 0x112c91750>
+Yngwie Malmsteen Rising Force <__main__.Song object at 0x112c91810>
+Yngwie Malmsteen Rising Force <__main__.Song object at 0x112c91890>
+Yngwie Malmsteen Rising Force <__main__.Song object at 0x112c91950>
+Yngwie Malmsteen Rising Force <__main__.Song object at 0x112c91a10>
+Yngwie Malmsteen Rising Force <__main__.Song object at 0x112c91a90>
+Yngwie Malmsteen Rising Force <__main__.Song object at 0x112c91b50>
+ZZ Top Rio Grande Mud <__main__.Song object at 0x112c91cd0>
+ZZ Top Rio Grande Mud <__main__.Song object at 0x112c91dd0>
+ZZ Top Rio Grande Mud <__main__.Song object at 0x112c91f10>
+ZZ Top Rio Grande Mud <__main__.Song object at 0x112c91f90>
+ZZ Top Rio Grande Mud <__main__.Song object at 0x112c91f50>
+ZZ Top Rio Grande Mud <__main__.Song object at 0x112c91e90>
+ZZ Top Rio Grande Mud <__main__.Song object at 0x112c94210>
+ZZ Top Rio Grande Mud <__main__.Song object at 0x112c942d0>
+ZZ Top Rio Grande Mud <__main__.Song object at 0x112c94350>
+ZZ Top Rio Grande Mud <__main__.Song object at 0x112c943d0>
+ZZ Top Tres Hombres <__main__.Song object at 0x112c94110>
+ZZ Top Tres Hombres <__main__.Song object at 0x112c94550>
+ZZ Top Tres Hombres <__main__.Song object at 0x112c94610>
+ZZ Top Tres Hombres <__main__.Song object at 0x112c94690>
+ZZ Top Tres Hombres <__main__.Song object at 0x112c94710>
+ZZ Top Tres Hombres <__main__.Song object at 0x112c947d0>
+ZZ Top Tres Hombres <__main__.Song object at 0x112c94850>
+ZZ Top Tres Hombres <__main__.Song object at 0x112c948d0>
+ZZ Top Tres Hombres <__main__.Song object at 0x112c94990>
+ZZ Top Tres Hombres <__main__.Song object at 0x112c94a10>
+ZZ Top Tres Hombres <__main__.Song object at 0x112c94ad0>
+ZZ Top Tres Hombres <__main__.Song object at 0x112c94b50>
+ZZ Top Tres Hombres <__main__.Song object at 0x112c94bd0>
+ZZ Top Degüello <__main__.Song object at 0x112c94b90>
+ZZ Top Degüello <__main__.Song object at 0x112c94cd0>
+ZZ Top Degüello <__main__.Song object at 0x112c94d50>
+ZZ Top Degüello <__main__.Song object at 0x112c94dd0>
+ZZ Top Degüello <__main__.Song object at 0x112c94e50>
+ZZ Top Degüello <__main__.Song object at 0x112c94f50>
+ZZ Top Degüello <__main__.Song object at 0x112c94f10>
+ZZ Top Degüello <__main__.Song object at 0x112c94fd0>
+ZZ Top Degüello <__main__.Song object at 0x112c96190>
+ZZ Top Degüello <__main__.Song object at 0x112c961d0>
+ZZ Top Recycler <__main__.Song object at 0x112c96290>
+ZZ Top Recycler <__main__.Song object at 0x112c96390>
+ZZ Top Recycler <__main__.Song object at 0x112c96490>
+ZZ Top Recycler <__main__.Song object at 0x112c96550>
+ZZ Top Recycler <__main__.Song object at 0x112c96610>
+ZZ Top Recycler <__main__.Song object at 0x112c966d0>
+ZZ Top Recycler <__main__.Song object at 0x112c96750>
+ZZ Top Recycler <__main__.Song object at 0x112c96810>
+ZZ Top Recycler <__main__.Song object at 0x112c968d0>
+ZZ Top Recycler <__main__.Song object at 0x112c96950>
+ZZ Top Antenna <__main__.Song object at 0x112c96310>
+ZZ Top Antenna <__main__.Song object at 0x112c96b50>
+ZZ Top Antenna <__main__.Song object at 0x112c96c50>
+ZZ Top Antenna <__main__.Song object at 0x112c96d10>
+ZZ Top Antenna <__main__.Song object at 0x112c96dd0>
+ZZ Top Antenna <__main__.Song object at 0x112c96e90>
+ZZ Top Antenna <__main__.Song object at 0x112c96f50>
+ZZ Top Antenna <__main__.Song object at 0x112c96f10>
+ZZ Top Antenna <__main__.Song object at 0x112c96fd0>
+ZZ Top Antenna <__main__.Song object at 0x112c99190>
+ZZ Top Antenna <__main__.Song object at 0x112c96ad0>
+ZZ Top Antenna <__main__.Song object at 0x112c99310>
+ZZ Top Mescalero <__main__.Song object at 0x112c992d0>
+ZZ Top Mescalero <__main__.Song object at 0x112c994d0>
+ZZ Top Mescalero <__main__.Song object at 0x112c99590>
+ZZ Top Mescalero <__main__.Song object at 0x112c99650>
+ZZ Top Mescalero <__main__.Song object at 0x112c99710>
+ZZ Top Mescalero <__main__.Song object at 0x112c99810>
+ZZ Top Mescalero <__main__.Song object at 0x112c998d0>
+ZZ Top Mescalero <__main__.Song object at 0x112c99990>
+ZZ Top Mescalero <__main__.Song object at 0x112c99a10>
+ZZ Top Mescalero <__main__.Song object at 0x112c99a90>
+ZZ Top Mescalero <__main__.Song object at 0x112c99b10>
+ZZ Top Mescalero <__main__.Song object at 0x112c99bd0>
+ZZ Top Mescalero <__main__.Song object at 0x112c99c90>
+ZZ Top Mescalero <__main__.Song object at 0x112c99d50>
+ZZ Top Mescalero <__main__.Song object at 0x112c99e10>
+ZZ Top Mescalero <__main__.Song object at 0x112c99ed0>
