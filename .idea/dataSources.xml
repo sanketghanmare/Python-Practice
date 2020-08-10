@@ -13,5 +13,11 @@
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/RollingBack/accounts.sqlite</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="music.sqlite" uuid="4c9fe221-a19d-4f4d-ba47-15fb3721fbd7">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/MusicBrowser/music.sqlite</jdbc-url>
+    </data-source>
   </component>
 </project>
